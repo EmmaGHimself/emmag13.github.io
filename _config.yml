@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 18
   exclude:
     archived: false
     forks: true
@@ -47,17 +47,17 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: Code Igniter
-    web_url: https://codeigniter.com
-    image_url: https://cdn.worldvectorlogo.com/logos/codeigniter.svg
+  - name: Kubernetes
+    web_url: https://github.com/topics/kubernetes
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png
 
   - name: Android
     web_url: https://github.com/topics/android
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/android/android.png
 
-  - name: FireBase
-    web_url: https://firebase.google.com
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png
+  - name: Azure
+    web_url: https://github.com/topics/azure
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png
     
   - name: PHP
     web_url: https://github.com/topics/php
@@ -67,13 +67,13 @@ topics:
     web_url: https://github.com/topics/laravel
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png
     
-  - name: Flutter
-    web_url: https://flutter.dev
-    image_url: https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png
+  - name: MVVM Cross
+    web_url: https://github.com/topics/mvvmcross
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mvvmcross/mvvmcross.png
     
-  - name: Python
-    web_url: https://python.org
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+  - name: Swift
+    web_url: https://github.com/topics/swift
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png
   
   - name: Java
     web_url: https://github.com/topics/java
@@ -83,17 +83,17 @@ topics:
     web_url: https://github.com/topics/javafx
     image_url: https://raw.githubusercontent.com/github/explore/00edd8b9cf9eb98be328184dcc257f3b1b930c6b/topics/javafx/javafx.png
     
-  - name: Splint
-    web_url: https://splint.cynobit.com
-    image_url: https://splint.cynobit.com/images/logo.png
+  - name: Docker
+    web_url: https://github.com/topics/docker
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png
     
   - name: Google Cloud Platform
     web_url: https://github.com/topics/gcp
     image_url: https://avatars1.githubusercontent.com/u/2810941?s=280&v=4
     
-  - name: Arduino
-    web_url: https://github.com/topics/arduino
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png
+  - name: NativeScript
+    web_url: https://github.com/topics/nativescript
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nativescript/nativescript.png
   
   - name: MySQL
     web_url: https://github.com/topics/mysql
@@ -103,6 +103,19 @@ topics:
     web_url: https://github.com/topics/node
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
   
+  - name: React Native
+    web_url: https://github.com/topics/react-native
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png
+
+  - name: Amazon Web Service
+    web_url: https://github.com/topics/aws
+    image_url: https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png
+
+  - name: Django
+    web_url: https://github.com/topics/django
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png
+
   - name: Vue
     web_url: https://github.com/topics/vue
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png
+
